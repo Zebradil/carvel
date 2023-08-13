@@ -135,5 +135,6 @@ With this approach, one loses the ability to activate `lazy` syncing separately 
 
 ## Open Questions
 
+- Which name to select for the options and CLI flags?
 
 ## Answered Questions
